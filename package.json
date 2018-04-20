@@ -1,0 +1,27 @@
+{
+  "name": "koa-douban",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C1103/koa-douban.git"
+  },
+  "keywords": [
+    "movie",
+    "trailer"
+  ],
+  "author": "C1103",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/C1103/koa-douban/issues"
+  },
+  "homepage": "https://github.com/C1103/koa-douban#readme",
+  "dependencies": {
+    "koa": "^2.5.0"
+  }
+}
